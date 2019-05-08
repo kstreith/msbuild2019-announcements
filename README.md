@@ -22,6 +22,7 @@
 ## General
 - [Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
 - [WSL 2 Announced](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
+- [Azure/GitHub integration](https://venturebeat.com/2019/05/06/sign-into-azure-with-github-account/)
 
 
 
